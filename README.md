@@ -5,7 +5,7 @@
 - Build a project with JavaFX to render UI
 - Reference project with Hibernate to manage student and save to Database (SQL Server)
 - Login
-- 
+
 <br>
 
 ## Tools
