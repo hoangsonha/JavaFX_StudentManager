@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-![Source code and test script](https://github.com/hoangsonha/JavaFX_StudentManage/blob/main/screenshots/project.png)
+![Source code and test script](https://github.com/hoangsonha/JavaFX_StudentManager/blob/main/screenshots/project.png)
 
 <br>
 
