@@ -5,8 +5,6 @@ import java.io.IOException;
 
 import hsf301.fe.service.AccountService;
 import hsf301.fe.service.IAccountService;
-import hsf301.fe.service.IstudentService;
-import hsf301.fe.service.StudentService;
 import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
