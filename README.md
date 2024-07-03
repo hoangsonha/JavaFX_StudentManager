@@ -11,7 +11,7 @@
 
 - Eclipse IDE for Enterprise Java and Web Developers
 - SQL Server Management Studio
-
+- Scene Builder
 
 ## Technologies
 - Java
