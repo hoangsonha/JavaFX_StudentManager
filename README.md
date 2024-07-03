@@ -10,7 +10,7 @@
 ## Tools
 
 - Eclipse IDE for Enterprise Java and Web Developers
-- SQL Server Management Studio Management Studio
+- SQL Server Management Studio
 
 
 ## Technologies
